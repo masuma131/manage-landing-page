@@ -24,6 +24,7 @@ Manage brings everyone together to build better products. It makes it easy for s
    git clone https://github.com/masuma131/manage-landing-page.git
 
 2. Navigate to the project directory:
+   ```bash
    cd manage-landing-page
 
 3. Install dependencies:
