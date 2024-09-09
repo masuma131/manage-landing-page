@@ -13,6 +13,7 @@ Manage brings everyone together to build better products. It makes it easy for s
 - Responsive design with Tailwind CSS
 - Custom themes and components
 - Clean and modern UI
+-hi
 
 ## Tech Stack
 
