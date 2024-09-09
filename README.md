@@ -2,6 +2,8 @@
 
 A simple and responsive landing page built using Tailwind CSS.
 
+![Landing Page Screenshot](Cover.png)
+
 ## About
 
 Manage brings everyone together to build better products. It makes it easy for software teams to plan day-to-day tasks while keeping larger team goals in view.
