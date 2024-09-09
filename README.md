@@ -28,12 +28,15 @@ Manage brings everyone together to build better products. It makes it easy for s
    cd manage-landing-page
 
 3. Install dependencies:
+   ```bash
    npm install
 
 4. Build the project:
+   ```bash
    npm run build
 
 5. Start a local development server using a tool like live-server or serve:
+   ```bash
    npx serve
 
 ## License
